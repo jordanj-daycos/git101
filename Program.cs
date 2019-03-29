@@ -1,4 +1,6 @@
-﻿namespace MyCoolExample
+﻿using System;
+
+namespace MyCoolExample
 {
     class Program
     {
