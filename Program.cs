@@ -8,8 +8,9 @@ namespace MyCoolExample
         {
             Console.WriteLine("Hello beautiful world!");
             Console.WriteLine("Goodbye world!");
+
+            Console.WriteLine("Hi everyone!");
             Console.ReadKey();
-fiodhajisfdhj
         }
     }
 }
